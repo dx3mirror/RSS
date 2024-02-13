@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "elWcdWXLd1pNwdmJcbGsrDvDjLmbH7rKzH6GIn3pOAo=",
+  "Source": "RESTAPINEWS",
+  "BasePath": "_content/RESTAPINEWS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

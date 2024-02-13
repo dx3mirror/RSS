@@ -1,0 +1,6 @@
+@RESTAPINEWS_HostAddress = http://localhost:5024
+
+GET {{RESTAPINEWS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
